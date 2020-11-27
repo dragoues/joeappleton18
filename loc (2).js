@@ -1,8 +1,4 @@
-/*!
- * FullCalendar v3.0.1
- * Docs & License: http://fullcalendar.io/
- * (c) 2016 Adam Shaw
- */
+
 
 (function(factory) {
 	if (typeof define === 'function' && define.amd) {
